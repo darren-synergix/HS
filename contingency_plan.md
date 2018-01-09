@@ -1,7 +1,7 @@
 
-Orchid Laundry Contingency Plan
+Hai Sia Contingency Plan
 ==========================
-![Network Diagram](https://raw.githubusercontent.com/darren-synergix/OL/master/network.png)
+![Network Diagram]()
 
 
 ## Scenario 1 - Network Down
@@ -94,3 +94,4 @@ Dedicated Server
 Intel Xeon E5-2620 v3 (6 core)
 48GB RAM
 2x 960GB SSD RAID1
+
